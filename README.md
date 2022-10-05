@@ -23,6 +23,7 @@
 
 
 ## OCR-Full-Flow-v3
+- Hay bị lỗ Error khi nhấn next.
 - Skip TP. trong TP.HCM của PlaceofIssue.
 - Dấu hỏi bị nhầm lần với dấu huyền.
 - Checkspell:
