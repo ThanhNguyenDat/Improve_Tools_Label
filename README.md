@@ -33,3 +33,5 @@
 - idcard_type: GPLX cũ predict sai nhiều.
 - idcard_type: CHIP, GPLX.
   - Address hay bị lỗi.
+  
+- Hoà (Default) -> Hòa
