@@ -24,6 +24,8 @@
 
 ## OCR-Full-Flow-v3
 - Skip TP. trong TP.HCM của PlaceofIssue.
-- GPLX cũ bị lỗi nhiều.
 - Dấu hỏi bị nhầm lần với dấu huyền.
-
+- 
+- idcard_type: GPLX cũ bị lỗi nhiều.
+- idcard_type: CHIP, GPLX.
+  - Address hay bị lỗi.
