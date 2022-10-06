@@ -35,3 +35,6 @@
   - Address hay bị lỗi.
   
 - Hoà (Default) -> Hòa
+
+
+- Tắt url_for , none
