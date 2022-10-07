@@ -39,3 +39,4 @@
 
 - Tắt url_for , none
 - Tắt tính năng random --> để 1 loại cho dễ nhìn và dễ thành thục 
+- Class National in PP: Viet Nam/Vietnamese : thiếu /
